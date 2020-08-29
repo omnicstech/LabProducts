@@ -1,0 +1,27 @@
+- title: Lightweight Knee Exoskeleton
+  image: FAEXO_1.jpg
+  description: This is an exoskeleton
+  category: exoskeleton
+  link:
+    url: "/products/lightweight-knee-exoskeleton"
+    display: Product link
+  highlight: 1
+  news:
+  data:
+    Maximum Torque: 180 Nm
+    Range of Motion: 45 degrees
+    Force Sensor: Accuracy +/- 1%
+
+- title: High Performance Tethered Knee Exoskeleton
+  image: FAEXO_1.jpg
+  description: This is an exoskeleton
+  category: exoskeleton
+  link:
+    url: "/products/high-performace-tethered-knee-exoskeleton"
+    display: Product link
+  highlight: 1
+  news:
+  data:
+    Maximum Torque: 180 Nm
+    Range of Motion: 45 degrees
+    Force Sensor: Accuracy +/- 1%

@@ -9,7 +9,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <productTitle>Sensor Test 1</productTitle>
-      <p><img src="http://localhost:4000/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
       <p>This is sensor #1</p>
 
       <p> Maximum Torque: 180 Nm </p>
@@ -18,14 +18,14 @@
 
       <p> Force Sensor: Accuracy +/- 1% </p>
 
-      <p><strong><a href="http://localhost:4000/products/prod-1">Product link</a></strong></p>
+      <p><strong><a href="http://localhost:4001/products/prod-1">Product link</a></strong></p>
     </div>
   </div>
 
   <div class="col-sm-6 clearfix">
     <div class="well">
       <productTitle>Sensor Test 2</productTitle>
-      <p><img src="http://localhost:4000/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
       <p>This is sensor #2</p>
 
       <p> Maximum Torque: 180 Nm </p>
@@ -34,7 +34,7 @@
 
       <p> Force Sensor: Accuracy +/- 1% </p>
 
-      <p><strong><a href="http://localhost:4000/products/prod-1">Product link</a></strong></p>
+      <p><strong><a href="http://localhost:4001/products/prod-1">Product link</a></strong></p>
     </div>
   </div>
 
@@ -45,7 +45,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <productTitle>Sensor Test 3</productTitle>
-      <p><img src="http://localhost:4000/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
       <p>This is sensor #3</p>
 
       <p> Maximum Torque: 180 Nm </p>
@@ -54,7 +54,7 @@
 
       <p> Force Sensor: Accuracy +/- 1% </p>
 
-      <p><strong><a href="http://localhost:4000/products/prod-1">Product link</a></strong></p>
+      <p><strong><a href="http://localhost:4001/products/prod-1">Product link</a></strong></p>
     </div>
   </div>
 
@@ -69,7 +69,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <productTitle>Actuator Test 1</productTitle>
-      <p><img src="http://localhost:4000/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
       <p>This is actuator #1</p>
 
       <p> Maximum Torque: 180 Nm </p>
@@ -78,14 +78,14 @@
 
       <p> Force Sensor: Accuracy +/- 1% </p>
 
-      <p><strong><a href="http://localhost:4000/products/prod-1">Product link</a></strong></p>
+      <p><strong><a href="http://localhost:4001/products/prod-1">Product link</a></strong></p>
     </div>
   </div>
 
   <div class="col-sm-6 clearfix">
     <div class="well">
       <productTitle>Actuator Test 2</productTitle>
-      <p><img src="http://localhost:4000/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
       <p>This is actuator #2</p>
 
       <p> Maximum Torque: 180 Nm </p>
@@ -94,7 +94,7 @@
 
       <p> Force Sensor: Accuracy +/- 1% </p>
 
-      <p><strong><a href="http://localhost:4000/products/prod-1">Product link</a></strong></p>
+      <p><strong><a href="http://localhost:4001/products/prod-1">Product link</a></strong></p>
     </div>
   </div>
 
@@ -105,7 +105,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <productTitle>Actuator Test 3</productTitle>
-      <p><img src="http://localhost:4000/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
       <p>This is actuator #3</p>
 
       <p> Maximum Torque: 180 Nm </p>
@@ -114,7 +114,7 @@
 
       <p> Force Sensor: Accuracy +/- 1% </p>
 
-      <p><strong><a href="http://localhost:4000/products/prod-1">Product link</a></strong></p>
+      <p><strong><a href="http://localhost:4001/products/prod-1">Product link</a></strong></p>
     </div>
   </div>
 
@@ -129,7 +129,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <productTitle>Lightweight Knee Exoskeleton</productTitle>
-      <p><img src="http://localhost:4000/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
       <p>This is an exoskeleton</p>
 
       <p> Maximum Torque: 180 Nm </p>
@@ -138,14 +138,14 @@
 
       <p> Force Sensor: Accuracy +/- 1% </p>
 
-      <p><strong><a href="http://localhost:4000/products/lightweight-knee-exoskeleton">Product link</a></strong></p>
+      <p><strong><a href="http://localhost:4001/products/lightweight-knee-exoskeleton">Product link</a></strong></p>
     </div>
   </div>
 
   <div class="col-sm-6 clearfix">
     <div class="well">
       <productTitle>High Performance Tethered Knee Exoskeleton</productTitle>
-      <p><img src="http://localhost:4000/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/productImages/FAEXO_1.jpg" class="img-responsive" width="33%" style="float: left" /></p>
       <p>This is an exoskeleton</p>
 
       <p> Maximum Torque: 180 Nm </p>
@@ -154,7 +154,7 @@
 
       <p> Force Sensor: Accuracy +/- 1% </p>
 
-      <p><strong><a href="http://localhost:4000/products/high-performace-tethered-knee-exoskeleton">Product link</a></strong></p>
+      <p><strong><a href="http://localhost:4001/products/high-performace-tethered-knee-exoskeleton">Product link</a></strong></p>
     </div>
   </div>
 

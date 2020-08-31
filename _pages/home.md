@@ -22,7 +22,7 @@ permalink: /
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0" style="max-height: 674px; max-width: 70%; margin:auto;">
+    <div class="carousel-inner" markdown="0" style="max-height: 674px; max-width: 80%; margin:auto;">
     <!-- style="max-height: 674px; max-width: 1348px; -->
 
         <div class="item active">

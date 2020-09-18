@@ -87,7 +87,7 @@ permalink: /products/lightweight-knee-exoskeleton
 </div>
 
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Senor_And_Control_Description.png" class="product-specs-image-center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Sensor_And_Control_Description.png" class="product-specs-image-center">
 </div>
 
 <div class="product-specs-subheading" markdown="1">
@@ -129,6 +129,14 @@ permalink: /products/lightweight-knee-exoskeleton
 </table>
 
 <div class="product-specs-subheading" markdown="1">
+## Portable Exoskeleton Parts (Deprecated)
+</div>
+
+<div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Parts.png" class="product-specs-image-center">
+</div>
+
+<div class="product-specs-subheading" markdown="1">
 ## Portable Exoskeleton Architecture (Teensy 3.6)
 </div>
 
@@ -136,3 +144,13 @@ permalink: /products/lightweight-knee-exoskeleton
 <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Portable_Exoskeleton Architecture (Teensy 3.6).png" class="product-specs-image-center">
 </div>
 
+<div class="product-specs-subheading" markdown="1">
+## Video
+</div>
+
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/VVqu4lBJy4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/jURGDA_jOlk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/k9lwGIp9dJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<br>

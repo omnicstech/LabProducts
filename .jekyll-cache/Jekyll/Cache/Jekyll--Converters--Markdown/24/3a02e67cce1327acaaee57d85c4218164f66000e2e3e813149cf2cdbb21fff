@@ -1,31 +1,23 @@
----
-title: "BIRO Lab - Products"
-layout: textlay
-excerpt: "BIRO Lab -- Products"
-sitemap: false
-permalink: /products/lightweight-knee-exoskeleton
----
+I"T<h1 id="lightweight-knee-exoskeleton">Lightweight Knee Exoskeleton</h1>
 
-# Lightweight Knee Exoskeleton
-
-<div class="product-specs-subheading" markdown="1">
-## Portable Exoskeleton Architecture
+<div class="product-specs-subheading">
+  <h2 id="portable-exoskeleton-architecture">Portable Exoskeleton Architecture</h2>
 </div>
 
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Portable_Exoskeleton Architecture (Teensy 3.6).png" class="product-specs-image-center">
+  <p><img src="http://localhost:4000/images/productImages/Lightweight_Knee_Exoskeleton_Portable_Exoskeleton Architecture (Teensy 3.6).png" class="product-specs-image-center" /></p>
 </div>
 
-<div class="product-specs-subheading" markdown="1">
-## Specifications
+<div class="product-specs-subheading">
+  <h2 id="specifications">Specifications</h2>
 </div>
 
 <div class="row">
   <div class="col-sm-3 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Demo_Figure.png" class="img-responsive" width="100%" style="float: left; margin-top: 0" />
-  </div>  
+    <p><img src="http://localhost:4000/images/productImages/Lightweight_Knee_Exoskeleton_Demo_Figure.png" class="img-responsive" width="100%" style="float: left; margin-top: 0" /></p>
+  </div>
   <div class="col-sm-9 clearfix">
-  <table class="table table-bordered">
+    <table class="table table-bordered">
   <thead>
     <tr>
       <th scope="col">Property</th>
@@ -95,7 +87,7 @@ permalink: /products/lightweight-knee-exoskeleton
 </div>
 
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Sensor_And_Control_Description.png" class="product-specs-image-center">
+<img src="http://localhost:4000/images/productImages/Lightweight_Knee_Exoskeleton_Sensor_And_Control_Description.png" class="product-specs-image-center">
 </div>
 
 <div class="product-specs-subheading" markdown="1">
@@ -141,22 +133,19 @@ permalink: /products/lightweight-knee-exoskeleton
 </div>
 
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Parts.png" class="product-specs-image-center">
+<img src="http://localhost:4000/images/productImages/Lightweight_Knee_Exoskeleton_Parts.png" class="product-specs-image-center">
 </div> -->
 
-
-
-<div class="product-specs-subheading" markdown="1">
-## Video
+<div class="product-specs-subheading">
+  <h2 id="video">Video</h2>
 </div>
 
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/VVqu4lBJy4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/jURGDA_jOlk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/k9lwGIp9dJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/VVqu4lBJy4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/jURGDA_jOlk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/k9lwGIp9dJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-
-<div class="product-specs-subheading" markdown="1">
-## Comparison
+<div class="product-specs-subheading">
+  <h2 id="comparison">Comparison</h2>
 </div>
 
 <table class="table-bordered" style="display: inline-block; max-width: 49%;">
@@ -173,14 +162,14 @@ permalink: /products/lightweight-knee-exoskeleton
       <td colspan="2">Transmission: 6:1 gear, bi-directional actuation</td>
     </tr>
     <tr>
-      <td colspan="2">Torque output: 20 Nm torque, >26 rad/s speed</td>
+      <td colspan="2">Torque output: 20 Nm torque, &gt;26 rad/s speed</td>
     </tr>
     <tr>
       <td colspan="2">Control platform: Arduino Teensy 3.6 microcontroller</td>
     </tr>
     <tr>
-      <td><img style="max-width: 100%; max-height: 381px" src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Lower_Limb.jpg" width></td>
-      <td><img style="max-width: 100%; max-height: 381px" src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Entire_Person.jpg" width></td>
+      <td><img style="max-width: 100%; max-height: 381px" src="http://localhost:4000/images/productImages/Lightweight_Knee_Exoskeleton_Lower_Limb.jpg" width="" /></td>
+      <td><img style="max-width: 100%; max-height: 381px" src="http://localhost:4000/images/productImages/Lightweight_Knee_Exoskeleton_Entire_Person.jpg" width="" /></td>
     </tr>
   </tbody>
 </table>
@@ -199,17 +188,16 @@ permalink: /products/lightweight-knee-exoskeleton
       <td>Transmission: 24:1 gear, bi-directional actuation</td>
     </tr>
     <tr>
-      <td>Torque output: >50 Nm torque, >6.5 rad/s speed</td>
+      <td>Torque output: &gt;50 Nm torque, &gt;6.5 rad/s speed</td>
     </tr>
     <tr>
       <td>Control platform: MATLAB Simulink Realtime</td>
     </tr>
     <tr>
-      <td><img style="max-width: 100%; max-height: 381px" src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Setup_Original.jpg" width></td>
+      <td><img style="max-width: 100%; max-height: 381px" src="http://localhost:4000/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Setup_Original.jpg" width="" /></td>
     </tr>
   </tbody>
 </table>
 
-
-
-<br>
+<p><br /></p>
+:ET

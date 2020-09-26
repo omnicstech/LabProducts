@@ -6,7 +6,7 @@ sitemap: false
 permalink: /products/lightweight-knee-exoskeleton
 ---
 
-# Lightweight Knee Exoskeleton
+<!-- # Lightweight Knee Exoskeleton -->
 
 <div class="product-specs-subheading" markdown="1">
 ## Portable Exoskeleton Architecture
@@ -21,11 +21,11 @@ permalink: /products/lightweight-knee-exoskeleton
 </div>
 
 <div class="row">
-  <div class="col-sm-3 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Demo_Figure.png" class="img-responsive" width="100%" style="float: left; margin-top: 0" />
+  <div class="col-sm-4 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Demo_Figure_NoText.png" class="img-responsive" width="100%" style="float: left; margin-top: 0" />
   </div>  
-  <div class="col-sm-9 clearfix">
-  <table class="table table-bordered">
+  <div class="col-sm-8 clearfix">
+  <table class="table table-bordered spec-table">
   <thead>
     <tr>
       <th scope="col">Property</th>
@@ -150,49 +150,135 @@ permalink: /products/lightweight-knee-exoskeleton
 ## Video
 </div>
 
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/VVqu4lBJy4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/jURGDA_jOlk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/k9lwGIp9dJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<!-- <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/VVqu4lBJy4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/jURGDA_jOlk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" width="382" height="674" src="https://www.youtube.com/embed/k9lwGIp9dJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<div class="row">
+<div class="col-sm-12 clearfix" style="padding-right: 0px; padding-left: 0px;">
+<div class="resizable-video-wrapper" style="width: 100%; max-width: 1500px;">
+<div style="padding-bottom: 56.25%; ">
+<iframe style="" src="https://www.youtube.com/embed/VVqu4lBJy4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</div>
+
+<!-- 2 videos in a row -->
+<!-- <div class="row">
+<div class="col-sm-6 clearfix" align="right" style="padding-right: 5px;">
+  <div class="resizable-video-wrapper">
+  <div style="padding-bottom: 176.47%; "> 
+  <iframe style="" src="https://www.youtube.com/embed/jURGDA_jOlk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
+  </div>
+  </div>
+</div>
+<div class="col-sm-6 clearfix" align="left" style="padding-left: 5px;">
+  <div class="resizable-video-wrapper">
+  <div style="padding-bottom: 176.47%; "> 
+  <iframe style="" src="https://www.youtube.com/embed/k9lwGIp9dJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
+  </div>
+  </div>
+</div>
+</div> -->
+
+<!-- 3 videos in a row -->
+<div class="row">
+<div class="col-sm-4 clearfix" align="right" style="padding-right: 5px; padding-left: 0px;">
+  <div class="resizable-video-wrapper">
+  <div style="padding-bottom: 176.47%; "> 
+  <iframe style="" src="https://www.youtube.com/embed/jURGDA_jOlk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
+  </div>
+  </div>
+</div>
+<div class="col-sm-4 clearfix" align="left" style="padding-left: 2.5px; padding-right: 2.5px;">
+  <div class="resizable-video-wrapper">
+  <div style="padding-bottom: 176.47%; "> 
+  <iframe style="" src="https://www.youtube.com/embed/k9lwGIp9dJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
+  </div>
+  </div>
+</div>
+<div class="col-sm-4 clearfix" align="right" style="padding-left: 5px; padding-right: 0px;">
+  <div class="resizable-video-wrapper">
+  <div style="padding-bottom: 176.47%; "> 
+  <iframe style="" src="https://www.youtube.com/embed/k9lwGIp9dJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
+  </div>
+  </div>
+</div>
+</div>
+
+<!-- <div style="text-align: center">
+<div class="resizable-video-wrapper" style="width: 48%; max-width: 1000px; display: inline-block;">
+<div style="padding-bottom: 176.47%; "> 
+<iframe style="" src="https://www.youtube.com/embed/jURGDA_jOlk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="resizable-video-wrapper" style="width: 48%; max-width: 1000px; display: inline-block;">
+<div style="padding-bottom: 176.47%; ">
+<iframe style="" src="https://www.youtube.com/embed/k9lwGIp9dJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+</div> -->
 
 <div class="product-specs-subheading" markdown="1">
 ## Comparison
 </div>
 
-<table class="table-bordered" style="display: inline-block; max-width: 49%;">
+<div class="row">
+<div class="col-sm-6 clearfix" align="right" style="padding-right: 5px;">
+<table border="1" class="spec-comparison" width="100%">
   <thead>
     <tr>
-      <th scope="col" colspan="2">Portable System</th>
+      <th scope="col" style="font-size: 20px">Portable System</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">Total weight: 2.5 kg (unilateral), 3.9 kg (bilateral)</td>
+    <td><ul class="table-nested-list">
+    <li>Total weight: 2.5 kg (unilateral), 3.9 kg (bilateral)</li>
+    <li>Transmission: 6:1 gear, bi-directional actuation</li>
+    <li>Torque output: 20 Nm torque, >26 rad/s speed</li>
+    <li>Control platform: Arduino Teensy 3.6 microcontroller</li>
+    </ul></td>
+    </tr>
+    <!-- <tr>
+      <td>Total weight: 2.5 kg (unilateral), 3.9 kg (bilateral)</td>
     </tr>
     <tr>
-      <td colspan="2">Transmission: 6:1 gear, bi-directional actuation</td>
+      <td>Transmission: 6:1 gear, bi-directional actuation</td>
     </tr>
     <tr>
-      <td colspan="2">Torque output: 20 Nm torque, >26 rad/s speed</td>
+      <td>Torque output: 20 Nm torque, >26 rad/s speed</td>
     </tr>
     <tr>
-      <td colspan="2">Control platform: Arduino Teensy 3.6 microcontroller</td>
-    </tr>
+      <td>Control platform: Arduino Teensy 3.6 microcontroller</td>
+    </tr> -->
     <tr>
-      <td><img style="max-width: 100%; max-height: 381px" src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Lower_Limb.jpg" width></td>
-      <td><img style="max-width: 100%; max-height: 381px" src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Entire_Person.jpg" width></td>
+      <td align="center"><img style="max-width: 100%; max-height: 290px" src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Demo_Figure.png"></td>
     </tr>
   </tbody>
 </table>
+</div>
 
-<table class="table-bordered" style="display: inline-block; max-width: 49%;">
+<div class="col-sm-6 clearfix" align="left" style="padding-left: 5px;">
+<table border="1" class="spec-comparison" width="100%">
   <thead>
     <tr>
-      <th scope="col">Tethered System</th>
+      <th scope="col" style="font-size: 20px">Tethered System</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+    <td><ul class="table-nested-list">
+    <li>Wearable structure weight: 1 kg</li>
+    <li>Transmission: 24:1 gear, bi-directional actuation</li>
+    <li>Torque output: >50 Nm torque, >6.5 rad/s speed</li>
+    <li>Control platform: MATLAB Simulink Realtime</li>
+    </ul></td>
+    </tr>
+    <!-- <tr>
       <td>Wearable structure weight: 1 kg</td>
     </tr>
     <tr>
@@ -203,13 +289,14 @@ permalink: /products/lightweight-knee-exoskeleton
     </tr>
     <tr>
       <td>Control platform: MATLAB Simulink Realtime</td>
-    </tr>
+    </tr> -->
     <tr>
-      <td><img style="max-width: 100%; max-height: 381px" src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Setup_Original.jpg" width></td>
+      <td align="center"><img style="max-width: 100%; max-height: 290px" src="{{site.url}}{{site.baseurl}}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Setup_Original.jpg"></td>
     </tr>
   </tbody>
 </table>
-
+</div>
+</div>
 
 
 <br>

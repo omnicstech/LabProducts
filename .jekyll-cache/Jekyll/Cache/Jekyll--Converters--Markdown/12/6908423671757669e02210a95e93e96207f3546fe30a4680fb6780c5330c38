@@ -1,20 +1,11 @@
----
-title: "BIRO Lab - Products"
-layout: textlay
-excerpt: "BIRO Lab -- Products"
-sitemap: false
-permalink: /products/high-performace-tethered-knee-exoskeleton
----
-
-# High Performance Tethered Knee Exoskeleton
-
+I"m<h1 id="high-performance-tethered-knee-exoskeleton">High Performance Tethered Knee Exoskeleton</h1>
 
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Overview.png" class="product-specs-image-center">
+  <p><img src="http://localhost:4000/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Overview.png" class="product-specs-image-center" /></p>
 </div>
 
-<div class="product-specs-subheading" markdown="1">
-## Benefits/Advantages
+<div class="product-specs-subheading">
+  <h2 id="benefitsadvantages">Benefits/Advantages</h2>
 </div>
 
 <table class="table table-bordered">
@@ -47,22 +38,22 @@ permalink: /products/high-performace-tethered-knee-exoskeleton
     </tr>
     <tr>
       <td>High Stiffness</td>
-      <td>>350 Nm/rad, more than average stiffness value of normal walking 260 Nm/rad</td>
+      <td>&gt;350 Nm/rad, more than average stiffness value of normal walking 260 Nm/rad</td>
     </tr>
     <tr>
       <td>High Accuracy</td>
-      <td>Tracking error < 3%</td>
+      <td>Tracking error &lt; 3%</td>
     </tr>
     
   </tbody>
 </table>
 
-<div class="product-specs-subheading" markdown="1">
-## Tethered Exoskeleton Architecture
+<div class="product-specs-subheading">
+  <h2 id="tethered-exoskeleton-architecture">Tethered Exoskeleton Architecture</h2>
 </div>
 
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Architecture.png" class="product-specs-image-center">
+  <p><img src="http://localhost:4000/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Architecture.png" class="product-specs-image-center" /></p>
 </div>
 
 <!-- <div class="product-specs-subheading" markdown="1">
@@ -70,7 +61,7 @@ permalink: /products/high-performace-tethered-knee-exoskeleton
 </div>
 
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Control_Architecture.png" class="product-specs-image-center">
+<img src="http://localhost:4000/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Control_Architecture.png" class="product-specs-image-center">
 </div>
 
 <div class="product-specs-subheading" markdown="1">
@@ -78,7 +69,7 @@ permalink: /products/high-performace-tethered-knee-exoskeleton
 </div>
 
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Software_System.png" class="product-specs-image-center">
+<img src="http://localhost:4000/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Software_System.png" class="product-specs-image-center">
 </div>
 
 <table class="table table-bordered">
@@ -122,7 +113,7 @@ permalink: /products/high-performace-tethered-knee-exoskeleton
 </div>
 
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Actuator_Unit.png" class="product-specs-image-center">
+<img src="http://localhost:4000/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Actuator_Unit.png" class="product-specs-image-center">
 </div>
 
 <table class="table table-bordered">
@@ -193,13 +184,13 @@ permalink: /products/high-performace-tethered-knee-exoskeleton
   </tbody>
 </table> -->
 
-<div class="product-specs-subheading" markdown="1">
-## Comparison
+<div class="product-specs-subheading">
+  <h2 id="comparison">Comparison</h2>
 </div>
 
 <div class="row">
-<div class="col-sm-6 clearfix" align="left" style="padding-left: 5px;">
-<table border="1" class="spec-comparison" width="100%">
+  <div class="col-sm-6 clearfix" align="left" style="padding-left: 5px;">
+    <table border="1" class="spec-comparison" width="100%">
   <thead>
     <tr>
       <th scope="col" style="font-size: 20px">Tethered System</th>
@@ -210,7 +201,7 @@ permalink: /products/high-performace-tethered-knee-exoskeleton
     <td><ul class="table-nested-list">
     <li>Wearable structure weight: 1 kg</li>
     <li>Transmission: 24:1 gear, bi-directional actuation</li>
-    <li>Torque output: >50 Nm torque, >6.5 rad/s speed</li>
+    <li>Torque output: &gt;50 Nm torque, &gt;6.5 rad/s speed</li>
     <li>Control platform: MATLAB Simulink Realtime</li>
     </ul></td>
     </tr>
@@ -227,17 +218,17 @@ permalink: /products/high-performace-tethered-knee-exoskeleton
       <td>Control platform: MATLAB Simulink Realtime</td>
     </tr> -->
     <tr>
-      <td align="center"><img style="max-width: 100%; max-height: 290px" src="{{site.url}}{{site.baseurl}}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Setup_Original.jpg"></td>
+      <td align="center"><img style="max-width: 100%; max-height: 290px" src="http://localhost:4000/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Setup_Original.jpg" /></td>
     </tr>
   </tbody>
 </table>
-</div>
+  </div>
 
-<div class="col-sm-6 clearfix" align="right" style="padding-right: 5px;">
-<table border="1" class="spec-comparison" width="100%">
+  <div class="col-sm-6 clearfix" align="right" style="padding-right: 5px;">
+    <table border="1" class="spec-comparison" width="100%">
   <thead>
     <tr>
-      <th scope="col" style="font-size: 20px"><a href="{{ site.url }}{{ site.baseurl }}/products/lightweight-knee-exoskeleton">Portable System</a></th>
+      <th scope="col" style="font-size: 20px">Portable System</th>
     </tr>
   </thead>
   <tbody>
@@ -245,7 +236,7 @@ permalink: /products/high-performace-tethered-knee-exoskeleton
     <td><ul class="table-nested-list">
     <li>Total weight: 2.5 kg (unilateral), 3.9 kg (bilateral)</li>
     <li>Transmission: 6:1 gear, bi-directional actuation</li>
-    <li>Torque output: 20 Nm torque, >26 rad/s speed</li>
+    <li>Torque output: 20 Nm torque, &gt;26 rad/s speed</li>
     <li>Control platform: Arduino Teensy 3.6 microcontroller</li>
     </ul></td>
     </tr>
@@ -262,11 +253,12 @@ permalink: /products/high-performace-tethered-knee-exoskeleton
       <td>Control platform: Arduino Teensy 3.6 microcontroller</td>
     </tr> -->
     <tr>
-      <td align="center"><img style="max-width: 100%; max-height: 290px" src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Demo_Figure.png"></td>
+      <td align="center"><img style="max-width: 100%; max-height: 290px" src="http://localhost:4000/images/productImages/Lightweight_Knee_Exoskeleton_Demo_Figure.png" /></td>
     </tr>
   </tbody>
 </table>
-</div>
+  </div>
 </div>
 
-<br>
+<p><br /></p>
+:ET

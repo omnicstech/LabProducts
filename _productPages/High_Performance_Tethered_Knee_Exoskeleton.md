@@ -5,9 +5,10 @@ excerpt: "BIRO Lab -- Products"
 sitemap: false
 permalink: /products/high-performace-tethered-knee-exoskeleton
 ---
-
+<br>
+<div class="product-specs-heading" markdown="1">
 # High Performance Tethered Knee Exoskeleton
-
+</div>
 
 <div>
 <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Overview.png" class="product-specs-image-center">
@@ -17,7 +18,12 @@ permalink: /products/high-performace-tethered-knee-exoskeleton
 ## Benefits/Advantages
 </div>
 
-<table class="table table-bordered">
+<div class="row content-row-center">
+  <div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/High_Performance_Tethered_Knee_Exoskeleton_Demo_Figure_NoText.png" class="img-responsive" width="100%" style="float: left; margin-top: 0" />
+  </div>  
+  <div class="col-sm-10 clearfix">
+  <table class="table table-bordered spec-table">
   <thead>
     <tr>
       <th scope="col">Property</th>
@@ -56,6 +62,9 @@ permalink: /products/high-performace-tethered-knee-exoskeleton
     
   </tbody>
 </table>
+  </div>
+</div>
+
 
 <div class="product-specs-subheading" markdown="1">
 ## Tethered Exoskeleton Architecture
@@ -194,10 +203,34 @@ permalink: /products/high-performace-tethered-knee-exoskeleton
 </table> -->
 
 <div class="product-specs-subheading" markdown="1">
+## Video
+</div>
+
+<div class="row content-row-center">
+<div class="col-sm-12 clearfix" style="padding-right: 0px; padding-left: 0px;">
+<div class="resizable-video-wrapper" style="">
+<div style="padding-bottom: 56.25%; ">
+<iframe style="" src="https://www.youtube.com/embed/ba1lqVy8O5w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row content-row-center">
+<div class="col-sm-12 clearfix" style="padding-right: 0px; padding-left: 0px;">
+<div class="resizable-video-wrapper" style="">
+<div style="padding-bottom: 56.25%; ">
+<iframe style="" src="https://www.youtube.com/embed/yqgIRmuwHXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</div>
+
+<div class="product-specs-subheading" markdown="1">
 ## Comparison
 </div>
 
-<div class="row">
+<div class="row content-row-center">
 <div class="col-sm-6 clearfix" align="left" style="padding-left: 5px;">
 <table border="1" class="spec-comparison" width="100%">
   <thead>

@@ -3,6 +3,17 @@
 
 @import "bootstrap";
 
+$global-content-width: 1200px;
+
+.content-row {
+  max-width: $global-content-width;
+}
+
+.content-row-center {
+  max-width: $global-content-width;
+  margin: 0 auto 0 auto;
+}
+
 // Home Logos
 .home_logo {
   -webkit-filter: grayscale(70%);
@@ -140,8 +151,13 @@ img.product-specs-image-center {
   display: block;
   margin: 0 auto 0 auto;
   width: 100%;
-  max-width: 1000px;
+  max-width: $global-content-width;
   border: 10px;
+}
+
+.product-specs-heading {
+  text-align: center;
+  font-size: 32px;
 }
 
 /// Product specs subheading
@@ -203,7 +219,7 @@ table.spec-table > tbody > tr > th {
 // Resizable video container
 // Ref: https://stackoverflow.com/questions/7737557/how-can-i-make-the-youtube-player-scale-to-the-width-of-the-page-but-also-keep-t
 .resizable-video-wrapper {
-  // max-width: 420px;
+  max-width: $global-content-width;
   margin: 2px auto;
 }
 

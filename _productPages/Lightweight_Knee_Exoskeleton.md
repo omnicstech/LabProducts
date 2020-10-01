@@ -5,26 +5,25 @@ excerpt: "BIRO Lab -- Products"
 sitemap: false
 permalink: /products/lightweight-knee-exoskeleton
 ---
-
-<!-- # Lightweight Knee Exoskeleton -->
-
-<div class="product-specs-subheading" markdown="1">
-## Portable Exoskeleton Architecture
+<br>
+<div class="product-specs-heading" markdown="1">
+# Lightweight Knee Exoskeleton
 </div>
 
+
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Portable_Exoskeleton Architecture (Teensy 3.6).png" class="product-specs-image-center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Overview.png" class="product-specs-image-center">
 </div>
 
 <div class="product-specs-subheading" markdown="1">
 ## Specifications
 </div>
 
-<div class="row">
-  <div class="col-sm-4 clearfix">
+<div class="row content-row-center">
+  <div class="col-sm-3 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Demo_Figure_NoText.png" class="img-responsive" width="100%" style="float: left; margin-top: 0" />
   </div>  
-  <div class="col-sm-8 clearfix">
+  <div class="col-sm-9 clearfix">
   <table class="table table-bordered spec-table">
   <thead>
     <tr>
@@ -35,11 +34,11 @@ permalink: /products/lightweight-knee-exoskeleton
   <tbody>
     <tr>
       <td>Unilateral Mass</td>
-      <td>2.5 kg</td>
+      <td>2.8 kg</td>
     </tr>
     <tr>
       <td>Bilateral Mass</td>
-      <td>3.9 kg</td>
+      <td>4.5 kg</td>
     </tr>
     <tr>
       <td>Size</td>
@@ -47,19 +46,19 @@ permalink: /products/lightweight-knee-exoskeleton
     </tr>
     <tr>
       <td>Motor Voltage</td>
-      <td>42 V</td>
+      <td>48 V</td>
     </tr>
     <tr>
       <td>Motor Continuous Torque</td>
-      <td>6.6 Nm</td>
+      <td>13 Nm</td>
     </tr>
     <tr>
       <td>Motor Speed</td>
-      <td>250 RPM</td>
+      <td>155 RPM</td>
     </tr>
     <tr>
       <td>Peak Output Torque</td>
-      <td>20 Nm</td>
+      <td>40 Nm</td>
     </tr>
     <tr>
       <td>Output Speed</td>
@@ -90,59 +89,13 @@ permalink: /products/lightweight-knee-exoskeleton
   </div>
 </div>
 
-<!-- <div class="product-specs-subheading" markdown="1">
-## Sensor and Control Description (Deprecated)
+<div class="product-specs-subheading" markdown="1">
+## Portable Exoskeleton Architecture
 </div>
 
 <div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Sensor_And_Control_Description.png" class="product-specs-image-center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Portable_Exoskeleton Architecture (Teensy 3.6).png" class="product-specs-image-center">
 </div>
-
-<div class="product-specs-subheading" markdown="1">
-## Sensor and Control Specifications (Deprecated)
-</div>
-<table class="table table-bordered">
-  <thead>
-    <tr>
-      <th scope="col">Property</th>
-      <th scope="col">Value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Sensor</td>
-      <td>Motor encoder, 9-axis IMU, Torque sensor</td>
-    </tr>
-    <tr>
-      <td>Master -Computer Communication</td>
-      <td>Bluetooth, USB (RS-232)</td>
-    </tr>
-    <tr>
-      <td>Microcontroller Communication</td>
-      <td>RS-232, CAN bus, SPI, I<sup>2</sup>C</td>
-    </tr>
-    <tr>
-      <td>Control Platform</td>
-      <td>MATLAB Simulink Real-time, Arduino Teensy</td>
-    </tr>
-    <tr>
-      <td>API Support</td>
-      <td>MATLAB, C/C++, Python</td>
-    </tr>
-    <tr>
-      <td>Control Mode</td>
-      <td>Torque/Current/Position/Velocity control</td>
-    </tr>
-  </tbody>
-</table>
-
-<div class="product-specs-subheading" markdown="1">
-## Portable Exoskeleton Parts (Deprecated)
-</div>
-
-<div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/productImages/Lightweight_Knee_Exoskeleton_Parts.png" class="product-specs-image-center">
-</div> -->
 
 
 
@@ -155,9 +108,9 @@ permalink: /products/lightweight-knee-exoskeleton
 <!-- <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/jURGDA_jOlk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="display: block; margin: auto;" width="382" height="674" src="https://www.youtube.com/embed/k9lwGIp9dJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-<div class="row">
+<div class="row content-row-center">
 <div class="col-sm-12 clearfix" style="padding-right: 0px; padding-left: 0px;">
-<div class="resizable-video-wrapper" style="width: 100%; max-width: 1500px;">
+<div class="resizable-video-wrapper" style="">
 <div style="padding-bottom: 56.25%; ">
 <iframe style="" src="https://www.youtube.com/embed/VVqu4lBJy4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -184,7 +137,7 @@ permalink: /products/lightweight-knee-exoskeleton
 </div> -->
 
 <!-- 3 videos in a row -->
-<div class="row">
+<div class="row content-row-center">
 <div class="col-sm-4 clearfix" align="right" style="padding-right: 5px; padding-left: 0px;">
   <div class="resizable-video-wrapper">
   <div style="padding-bottom: 176.47%; "> 
@@ -202,7 +155,7 @@ permalink: /products/lightweight-knee-exoskeleton
 <div class="col-sm-4 clearfix" align="right" style="padding-left: 5px; padding-right: 0px;">
   <div class="resizable-video-wrapper">
   <div style="padding-bottom: 176.47%; "> 
-  <iframe style="" src="https://www.youtube.com/embed/k9lwGIp9dJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
+  <iframe style="" src="https://www.youtube.com/embed/dOD2HVh1G_8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
   </div>
   </div>
 </div>
@@ -226,7 +179,7 @@ permalink: /products/lightweight-knee-exoskeleton
 ## Comparison
 </div>
 
-<div class="row">
+<div class="row content-row-center">
 <div class="col-sm-6 clearfix" align="right" style="padding-right: 5px;">
 <table border="1" class="spec-comparison" width="100%">
   <thead>

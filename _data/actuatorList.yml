@@ -1,5 +1,5 @@
 - title: High Torque Actuator
-  image: High_Torque_Actuator_Thumbnail.jpg
+  image: High_Torque_Actuator_Thumbnail.png
   description: This is actuator \#1
   category: actuator
   link:
@@ -11,6 +11,7 @@
     Maximum Torque: 180 Nm
     Range of Motion: 45 degrees
     Force Sensor: Accuracy +/- 1%
+    Motor Type: Brushless servo motor
 
 - title: Alpha Actuator
   image: Alpha_Actuator_Thumbnail.png
@@ -25,9 +26,10 @@
     Maximum Torque: 180 Nm
     Range of Motion: 45 degrees
     Force Sensor: Accuracy +/- 1%
+    Motor Type: Brushless servo motor
 
 - title: Beta Actuator
-  image: Beta_Actuator_Thumbnail.jpg
+  image: Beta_Actuator_Thumbnail.png
   description: This is actuator \#3
   category: actuator
   link:
@@ -39,3 +41,4 @@
     Maximum Torque: 180 Nm
     Range of Motion: 45 degrees
     Force Sensor: Accuracy +/- 1%
+    Motor Type: Brushless servo motor

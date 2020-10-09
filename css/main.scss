@@ -62,8 +62,24 @@ p {
   font-size: 20px;
 }
 
+// Logo Text
+.logo-text-special {
+  color: rgb(162, 207, 201)!important; 
+  font-size: 24px;
+}
+
+.logo-text-normal {
+  color: rgba(255, 255, 255, 0.5)!important; 
+  font-size: 24px;
+}
+
+// Product Main Page
 p.product_short_description {
   font-size: 18px;
+}
+
+.product-listing {
+  background-color: white;
 }
 
 // Product Details Page

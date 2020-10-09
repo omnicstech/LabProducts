@@ -1,5 +1,5 @@
-- title: Sensor Test 1
-  image: FAEXO_1.jpg
+- title: Wireless Inertial Measurement Unit (IMU)
+  image: Alubi_B2_Wireless_IMU.png
   description: This is sensor \#1
   category: sensor
   link:
@@ -11,8 +11,9 @@
     Maximum Torque: 180 Nm
     Range of Motion: 45 degrees
     Force Sensor: Accuracy +/- 1%
+    Sample Frequency: 400 Hz
 
-- title: Sensor Test 2
+- title: Force Sensor
   image: FAEXO_1.jpg
   description: This is sensor \#2
   category: sensor
@@ -25,6 +26,7 @@
     Maximum Torque: 180 Nm
     Range of Motion: 45 degrees
     Force Sensor: Accuracy +/- 1%
+    Sample Frequency: 400 Hz
 
 - title: Sensor Test 3
   image: FAEXO_1.jpg
@@ -39,3 +41,4 @@
     Maximum Torque: 180 Nm
     Range of Motion: 45 degrees
     Force Sensor: Accuracy +/- 1%
+    Sample Frequency: 400 Hz

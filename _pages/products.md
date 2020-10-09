@@ -24,12 +24,12 @@ Jump to [exoskeletons](#exoskeletons), [actuators](#actuators), [sensors](#senso
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well product-listing">
   <productTitle>{{ product.title }}</productTitle>
   <a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">
     <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/{{ product.image }}" class="img-responsive" width="33%" style="float: left" />
   </a>
-  <p>{{ product.description }}</p>
+  <p class="product_short_description">{{ product.description }}</p>
   {% for data in product.data %}
   <p class="product_short_description"> {{data[0]}}: {{data[1]}} </p>
   {% endfor %}
@@ -69,12 +69,12 @@ Jump to [exoskeletons](#exoskeletons), [actuators](#actuators), [sensors](#senso
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well product-listing">
   <productTitle>{{ product.title }}</productTitle>
   <a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">
     <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/{{ product.image }}" class="img-responsive" width="33%" style="float: left" />
   </a>
-  <p>{{ product.description }}</p>
+  <p class="product_short_description">{{ product.description }}</p>
   {% for data in product.data %}
   <p class="product_short_description"> {{data[0]}}: {{data[1]}} </p>
   {% endfor %}
@@ -114,12 +114,12 @@ Jump to [exoskeletons](#exoskeletons), [actuators](#actuators), [sensors](#senso
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well product-listing">
   <productTitle>{{ product.title }}</productTitle>
   <a href="{{ site.url }}{{ site.baseurl }}{{ product.link.url }}">
     <img src="{{ site.url }}{{ site.baseurl }}/images/productImages/{{ product.image }}" class="img-responsive" width="33%" style="float: left" />
   </a>
-  <p>{{ product.description }}</p>
+  <p class="product_short_description">{{ product.description }}</p>
   {% for data in product.data %}
   <p class="product_short_description"> {{data[0]}}: {{data[1]}} </p>
   {% endfor %}

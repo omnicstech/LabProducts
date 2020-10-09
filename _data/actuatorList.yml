@@ -1,5 +1,5 @@
-- title: Actuator Test 1
-  image: FAEXO_1.jpg
+- title: High Torque Actuator
+  image: High_Torque_Actuator_Thumbnail.jpg
   description: This is actuator \#1
   category: actuator
   link:
@@ -12,8 +12,8 @@
     Range of Motion: 45 degrees
     Force Sensor: Accuracy +/- 1%
 
-- title: Actuator Test 2
-  image: FAEXO_1.jpg
+- title: Alpha Actuator
+  image: Alpha_Actuator_Thumbnail.png
   description: This is actuator \#2
   category: actuator
   link:
@@ -26,8 +26,8 @@
     Range of Motion: 45 degrees
     Force Sensor: Accuracy +/- 1%
 
-- title: Actuator Test 3
-  image: FAEXO_1.jpg
+- title: Beta Actuator
+  image: Beta_Actuator_Thumbnail.jpg
   description: This is actuator \#3
   category: actuator
   link:

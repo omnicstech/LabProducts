@@ -47,6 +47,7 @@ $global-content-width: 1200px;
 
 productTitle {
   font-weight: bold;
+  font-size: 20px;
 }
 
 .nav.navbar-nav > li.active > a {
@@ -61,7 +62,11 @@ p {
   font-size: 20px;
 }
 
-// Product Page
+p.product_short_description {
+  font-size: 18px;
+}
+
+// Product Details Page
 /// Product Spec Table
 .specs_wrapper {
   position: relative;

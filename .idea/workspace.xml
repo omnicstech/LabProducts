@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3363bdf-0e14-4eb3-8516-ec91b37b94ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/products/index1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/products/index2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/products/index3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/slide/Picture1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/slide/Picture2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/slide/Picture3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/slide/Picture4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/products/elc_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/elc_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/products/sen_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/sen_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slide/Picture2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/slide/Picture2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

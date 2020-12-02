@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3363bdf-0e14-4eb3-8516-ec91b37b94ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/datasheet/20201201-Portable Exoskeleton datasheet - the latest.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/datasheet/20201201-Tethered Exoskeleton datasheet - the latest.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/downloads.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMU-sensors.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMU-sensors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loadcell.html" beforeDir="false" afterPath="$PROJECT_DIR$/Loadcell.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cable-actuator.html" beforeDir="false" afterPath="$PROJECT_DIR$/cable-actuator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller-electronics.html" beforeDir="false" afterPath="$PROJECT_DIR$/controller-electronics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/high-torque-smart-actuator.html" beforeDir="false" afterPath="$PROJECT_DIR$/high-torque-smart-actuator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portable-hip-exoskeleton.html" beforeDir="false" afterPath="$PROJECT_DIR$/portable-hip-exoskeleton.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portable-knee-exoskeleton.html" beforeDir="false" afterPath="$PROJECT_DIR$/portable-knee-exoskeleton.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tethered-simulink-exoskeleton.html" beforeDir="false" afterPath="$PROJECT_DIR$/tethered-simulink-exoskeleton.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3363bdf-0e14-4eb3-8516-ec91b37b94ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/datasheet/20201201-Portable Exoskeleton datasheet - the latest.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/datasheet/20201201-Tethered Exoskeleton datasheet - the latest.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/downloads.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portable-knee-exoskeleton.html" beforeDir="false" afterPath="$PROJECT_DIR$/portable-knee-exoskeleton.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tethered-simulink-exoskeleton.html" beforeDir="false" afterPath="$PROJECT_DIR$/tethered-simulink-exoskeleton.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3363bdf-0e14-4eb3-8516-ec91b37b94ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/datasheet/20201226-Portable Hip Exoskeleton datasheet.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMU-sensors.html" beforeDir="false" afterPath="$PROJECT_DIR$/IMU-sensors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loadcell.html" beforeDir="false" afterPath="$PROJECT_DIR$/Loadcell.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/High_Performance_Tethered_Knee_Exoskeleton_Architecture.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/High_Performance_Tethered_Knee_Exoskeleton_Architecture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/High_Performance_Tethered_Knee_Exoskeleton_Overview.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/High_Performance_Tethered_Knee_Exoskeleton_Overview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/Lightweight_Knee_Exoskeleton_Overview.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/Lightweight_Knee_Exoskeleton_Overview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/Lightweight_Knee_Exoskeleton_Portable_Exoskeleton Architecture (Teensy 3.6).png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/Lightweight_Knee_Exoskeleton_Portable_Exoskeleton Architecture (Teensy 3.6).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/products/portable hip exoskeleton 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/products/portable hip exoskeleton 1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cable-actuator.html" beforeDir="false" afterPath="$PROJECT_DIR$/cable-actuator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller-electronics.html" beforeDir="false" afterPath="$PROJECT_DIR$/controller-electronics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/high-torque-smart-actuator.html" beforeDir="false" afterPath="$PROJECT_DIR$/high-torque-smart-actuator.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portable-hip-exoskeleton.html" beforeDir="false" afterPath="$PROJECT_DIR$/portable-hip-exoskeleton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portable-knee-exoskeleton.html" beforeDir="false" afterPath="$PROJECT_DIR$/portable-knee-exoskeleton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tethered-simulink-exoskeleton.html" beforeDir="false" afterPath="$PROJECT_DIR$/tethered-simulink-exoskeleton.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

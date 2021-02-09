@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3363bdf-0e14-4eb3-8516-ec91b37b94ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/img/RMD X8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/about/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/img/grid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/js/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/js/jquery-1.10.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/search/lunr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/search/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/search/search_index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/search/worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/sitemap.xml.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
